@@ -16,14 +16,6 @@ Busco evoluir constantemente para atuar como Analista de Segurança.
 
 ---
 
-## 🎓 Formação & Certificações
-
-- Cisco – Fundamentos de Segurança  
-- Alura – Imersão Front-end  
-- Coursera – UX Design  
-
----
-
 ## 🚀 Tecnologias
 
 <p align="center">
@@ -59,7 +51,7 @@ Busco evoluir constantemente para atuar como Analista de Segurança.
 **Cibersegurança**
 - Fundamentos de Segurança da Informação
 - Conceitos básicos de redes
-- Linux (Ubuntu)
+- Linux 
 
 **Outros**
 - Git & GitHub
@@ -70,7 +62,7 @@ Busco evoluir constantemente para atuar como Analista de Segurança.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="www.linkedin.com/in/maria-e-0583113b1">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
