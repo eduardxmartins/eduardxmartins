@@ -62,7 +62,7 @@ Busco evoluir constantemente para atuar como Analista de Segurança.
 ## 📫 Contato
 
 <p align="center">
-  <a href="www.linkedin.com/in/maria-e-0583113b1">
+  <a href="https://www.linkedin.com/in/maria-e-0583113b1/?trk=opento_sprofile_goalscard">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
